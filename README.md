@@ -16,7 +16,7 @@ A modern, responsive web app to repeat any text up to 1000 times with line break
 - Real-time validation
 
 ## Screenshots
-> _Add screenshots here_ — `screenshots/light.png`, `screenshots/dark.png`, `screenshots/mobile.png`
+>`assets/2026-04-27_10-57.png`, `assets/2026-04-27_10-58.png`
 
 ## Installation
 ```bash
