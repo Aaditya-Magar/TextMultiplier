@@ -17,11 +17,8 @@ A modern, responsive web app to repeat any text up to 1000 times with line break
 
 ## Screenshots
 
-### Home UI
-![Home](assets/screenshots/home.png)
-
-### Output Example
-![Output](assets/screenshots/output.png)
+![Home](assets/home.png)
+![Output](assets/output.png)
 
 ## Installation
 ```bash
