@@ -20,6 +20,10 @@ A modern, responsive web app to repeat any text up to 1000 times with line break
 ![Home](assets/home.png)
 ![Output](assets/output.png)
 
+## Live Demo
+
+> https://textmultiplier.vercel.app
+
 ## Installation
 ```bash
 git clone git@github.com:Aaditya-Magar/TextMultiplier.git
